@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034253943575",
+    "project_id": "emergencycall-f8299",
+    "storage_bucket": "emergencycall-f8299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034253943575:android:fe0769db1fd0068b51ed52",
+        "android_client_info": {
+          "package_name": "com.example.emergencycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034253943575-olku4849skee1jjt9r0jumca5vp6ocj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo78NNa6PmkRQcwXAfpKNgt6pCQUKbHS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034253943575-olku4849skee1jjt9r0jumca5vp6ocj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
